@@ -7,8 +7,9 @@
 - . I am pursuing B.A.
 - 📫 How to reach me ...
 - <a href=""> 
-
+[Uploading th.jpeg…]
 <!---
+
 rakeshrauniyar12/rakeshrauniyar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
