@@ -6,8 +6,7 @@
 - . I have completed my 12th.
 - . I am pursuing B.A.
 - 📫 How to reach me ...
-- <a href=""> 
-[Uploading th.jpeg…]
+- <img src="https://tse4.mm.bing.net/th?id=OIP.yw0TnheAGN-LPneDaTlaxwHaD8&pid=Api&P=0">
 <!---
 
 rakeshrauniyar12/rakeshrauniyar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
