@@ -5,7 +5,6 @@
 - Java, Aspiring Java Developer
 - What have I done till now ?
 - I have completed my 12th.
-- I am pursuing B.A.
 - How to reach me ...
 -  <a href="https://www.linkedin.com/in/abhinandan-rauniyar-4921a8223/">Linked In</a>
 <!---
