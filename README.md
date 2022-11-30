@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Dipali+Sarjare!;Java+Back-end+Developer...;" style="width: 100%;">
 <h1 align="center">Hi 👋, I'm Abhinandan Rauniyar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
