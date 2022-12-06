@@ -18,12 +18,6 @@
 - 😄 Pronouns: He/Him
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
-<div align='center'>
-
-  ![age](https://img.shields.io/badge/age-25-blue&height="20")
-  ![living](https://img.shields.io/badge/living-Singaha,Uttar Pradesh)
-  ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
-</div>
 <br/>
 
 <h3 align='center'> 🔍 Find me here </h3>
@@ -44,19 +38,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="![java](https://user-images.githubusercontent.com/103803319/205854914-d1217187-96ea-4af8-98f4-d5a876f0c60c.png)" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-2e542d?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-9400d3?style=for-the-badge&logo=bootstrap&logoColor=violet" />
-  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
 </div>
 
 <br>
@@ -71,7 +52,7 @@
 </div>
 <br/>
 
-<h2 align='center'>📊 My Github Stats</h2>
+<!-- <h2 align='center'>📊 My Github Stats</h2>
 
 <div style="display: flex;">
     <img width="450px" height="200px" alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Dewangan&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
@@ -82,22 +63,22 @@
 
   <!-- <h2 align='center'>ℹ️ &nbsp;Github Info</h2> -->
 
-<div>
+<!-- <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Dewangan&theme=github_dark" alt="Abhishek-Dewangan" align = "center"/></p>
 </div>
 
 <div>
   <!-- <p align='center'><b>📊 Github Contribution Graph</b></p><br/> -->
-  <p align="center"<a href="#"><img alt="Abhishek-Dewangan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishek-Dewangan&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<!--   <p align="center"<a href="#"><img alt="Abhishek-Dewangan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishek-Dewangan&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </div>
 
 <div>
   <p align='center'><b>🏆 Github Achievements</b></p><br/>
   <p align="center"> <a href="https://github.com/Abhishek-Dewangan"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Dewangan&margin-w=5&theme=radical" alt="Abhishek" /></a> </p>
-</div>
+</div> --> -->
 
- <hr>
+<!--  <hr> --> -->
 <!---
 
 rakeshrauniyar12/rakeshrauniyar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
