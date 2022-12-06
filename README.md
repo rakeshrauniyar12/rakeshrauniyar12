@@ -7,16 +7,14 @@
 </p>
 
 <h2 align="center"> :card_file_box: About Me</h2>
-<h4 align='center'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
+<h4 align='center'>A Dedicated Java Backend Developer who is always passionate about learning new things.</h4>
 
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Linkedin
 - 💬 Ask me about any Java related stuff
-- 📫 you can reach me at rakeshrauniyara1234@gmail.com
 - 😄 Pronouns: He/Him
-  <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
 <br/>
 
@@ -46,36 +44,33 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 <br/>
 
 <!-- <h2 align='center'>📊 My Github Stats</h2>
 
 <div style="display: flex;">
-    <img width="450px" height="200px" alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Dewangan&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-    <img width="300px" height="200px" alt="Abhishek-Dewangan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Dewangan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img width="450px" height="200px" alt="" src="" />
+    <img width="300px" height="200px" alt="" src="" />
 </div>
 <br/>
-<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
   <!-- <h2 align='center'>ℹ️ &nbsp;Github Info</h2> -->
 
 <!-- <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
-  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Dewangan&theme=github_dark" alt="Abhishek-Dewangan" align = "center"/></p>
+  <p align="center"><img width="800px" src=" alt="" align = "center"/></p>
 </div>
 
 <div>
   <!-- <p align='center'><b>📊 Github Contribution Graph</b></p><br/> -->
-<!--   <p align="center"<a href="#"><img alt="Abhishek-Dewangan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishek-Dewangan&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<!--   <p align="center"<a href="#"><img alt="" src="" /></a></p>
 </div>
 
 <div>
   <p align='center'><b>🏆 Github Achievements</b></p><br/>
-  <p align="center"> <a href="https://github.com/Abhishek-Dewangan"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Dewangan&margin-w=5&theme=radical" alt="Abhishek" /></a> </p>
+  <p align="center"> <a href="><img src=" alt="" /></a> </p>
 </div> --> -->
 
 <!--  <hr> --> -->
