@@ -1,7 +1,5 @@
-<p align="center"><img src="./Image/bg.jpg"></p>
-
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Abhishek Dewangan </a>!
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://rakeshrauniyar12.github.io/" target="_blank" rel="noopener noreferrer">Abhinandan Rauniyar </a>!
 </h2>
 
 <p align="center">
@@ -13,18 +11,17 @@
 
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Linkedin
-- 🤔 I’m looking for help with developing AI skills..
-- 💬 Ask me about any MERN related stuff
-- 📫 you can reach me at callmeabhi1997@gmail.com
+- 💬 Ask me about any Java related stuff
+- 📫 you can reach me at rakeshrauniyara1234@gmail.com
 - 😄 Pronouns: He/Him
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
 <div align='center'>
 
   ![age](https://img.shields.io/badge/age-25-blue&height="20")
-  ![living](https://img.shields.io/badge/living-Bilaspur,Chhattisgarh-maroon)
+  ![living](https://img.shields.io/badge/living-Singaha,Uttar Pradesh)
   ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 </div>
 <br/>
@@ -32,12 +29,11 @@
 <h3 align='center'> 🔍 Find me here </h3>
 <div align='center'>
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/abhishek-dewangan-319345218/)
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://abhishekdewanganportfolio.netlify.app/)
-  [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=black&color=white)](https://medium.com/@callmeabhi1997)
-  [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Abhishek-Dewangan)
-  [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/callmeabhi1997/)
-  [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/callmeabhi1997)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)]([https://www.linkedin.com/in/abhishek-dewangan-319345218/](https://www.linkedin.com/in/abhinandan-rauniyar-4921a8223/))
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://rakeshrauniyar12.github.io/)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/rakeshrauniyar12)
+  [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/abhirauniyar1/)
+  [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/abhirauniyara1)
 </div>
 
 <br>
@@ -48,7 +44,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="![java](https://user-images.githubusercontent.com/103803319/205854914-d1217187-96ea-4af8-98f4-d5a876f0c60c.png)" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
