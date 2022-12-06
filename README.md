@@ -9,7 +9,7 @@
 <h2 align="center"> :card_file_box: About Me</h2>
 <h4 align='center'>A Dedicated Java Backend Developer who is always passionate about learning new things.</h4>
 
-<img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
+<img height="140px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Linkedin
@@ -18,7 +18,7 @@
    <br>
 <br/>
 
-<h3 align='center'> 🔍 Find me here </h3>
+<h3 align='center' style="margin-right=40px"> 🔍 Find me here </h3>
 <div align='center'>
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)]([https://www.linkedin.com/in/abhishek-dewangan-319345218/](https://www.linkedin.com/in/abhinandan-rauniyar-4921a8223/))
