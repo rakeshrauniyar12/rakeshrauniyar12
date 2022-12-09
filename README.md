@@ -50,10 +50,10 @@
 
  <h2 align='center'>📊 My Github Stats</h2>
 <div style="display: flex;margin-left:20px;margin-top:20px;">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=rakeshrauniyar12&theme=dark&hide_border=false" width = 300>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=rakeshrauniyar12&theme=dark&hide_border=false" width = 220>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=rakeshrauniyar12&show_icons=true&theme=dark" width = 300>
-  <img style="background-color:balck;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshrauniyar12&theme=dark)](https://github.com/rakeshrauniyar12/github-readme-stats" width=300 height=120>
+<img src = "https://github-readme-stats.vercel.app/api?username=rakeshrauniyar12&show_icons=true&theme=dark" width = 220>
+  <img style="background-color:balck;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshrauniyar12&theme=dark)](https://github.com/rakeshrauniyar12/github-readme-stats" width=220 height=120>
 </div>
 
 
