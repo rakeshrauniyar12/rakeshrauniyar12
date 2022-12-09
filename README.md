@@ -53,7 +53,7 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=rakeshrauniyar12&theme=dark&hide_border=false" width = 300>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=rakeshrauniyar12&show_icons=true&theme=dark" width = 300>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshrauniyar12&theme=dark)](https://github.com/rakeshrauniyar12/github-readme-stats" width=300 height=200>
+  <img style="theme:dark;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshrauniyar12&theme=dark)](https://github.com/rakeshrauniyar12/github-readme-stats" width=300 height=100>
 </div>
 
 
