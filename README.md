@@ -21,7 +21,7 @@
 <h3 align='center' style="margin-right=40px"> 🔍 Find me here </h3>
 <div align='center'>
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)]([https://www.linkedin.com/in/abhishek-dewangan-319345218/](https://www.linkedin.com/in/abhinandan-rauniyar-4921a8223/))
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/abhinandan-rauniyar-4921a8223/)
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://rakeshrauniyar12.github.io/)
   [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/rakeshrauniyar12)
   [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/abhirauniyar1/)
