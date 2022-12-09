@@ -51,9 +51,9 @@
  <h2 align='center'>📊 My Github Stats</h2>
 
 <div style="display: flex;margin-left:20px;">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=rakeshrauniyar12&theme=dark&hide_border=false" width = 500>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=rakeshrauniyar12&theme=dark&hide_border=false" width = 300>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=rakeshrauniyar12&show_icons=true&theme=dark" width = 500>
+<img src = "https://github-readme-stats.vercel.app/api?username=rakeshrauniyar12&show_icons=true&theme=dark" width = 300>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshrauniyar12&theme=dark)](https://github.com/rakeshrauniyar12/github-readme-stats)
 
