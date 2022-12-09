@@ -53,7 +53,7 @@
 <div style="display: flex;">
     <img width="450px" height="200px" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=rakeshrauniyar12&theme=dark&hide_border=false" />
     <img width="300px" height="200px" alt="" src="https://github-readme-stats.vercel.app/api?username=rakeshrauniyar12&show_icons=true&theme=dark" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshubisht9&theme=dark)](https://github.com/pranshubisht9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshrauniyar12&theme=dark)](https://github.com/pranshubisht9/github-readme-stats)
 
 </div>
 <br/>
