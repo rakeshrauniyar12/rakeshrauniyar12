@@ -50,7 +50,6 @@
 
  <h2 align='center'>📊 My Github Stats</h2>
 <div style="display: flex;margin-left:20px;margin-top:20px;">
-<div>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=rakeshrauniyar12&theme=dark&hide_border=false" width = 300>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=rakeshrauniyar12&show_icons=true&theme=dark" width = 300>
@@ -58,9 +57,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/rakeshrauniyar12)
 </div>
-<div>
 
-</div>
-</div>
 
 <br/>
