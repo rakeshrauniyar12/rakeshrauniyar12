@@ -50,7 +50,7 @@
 
  <h2 align='center'>📊 My Github Stats</h2>
 
-<div style="display: flex;">
+<div style="display: flex;margin-left:20px;">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=rakeshrauniyar12&theme=dark&hide_border=false" width = 500>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=rakeshrauniyar12&show_icons=true&theme=dark" width = 500>
@@ -62,28 +62,3 @@
 
 </div>
 <br/>
-
-
-  <!-- <h2 align='center'>ℹ️ &nbsp;Github Info</h2> -->
-
-<!-- <div>
-  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
-  <p align="center"><img width="800px" src=" alt="" align = "center"/></p>
-</div>
-
-<div>
-  <!-- <p align='center'><b>📊 Github Contribution Graph</b></p><br/> -->
-<!--   <p align="center"<a href="#"><img alt="" src="" /></a></p>
-</div>
-
-<div>
-  <p align='center'><b>🏆 Github Achievements</b></p><br/>
-  <p align="center"> <a href="><img src=" alt="" /></a> </p>
-</div> 
-
-<!--  <hr> --> 
-<!---
-
-rakeshrauniyar12/rakeshrauniyar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
