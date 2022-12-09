@@ -48,13 +48,16 @@
 </div>
 <br/>
 
-<!-- <h2 align='center'>📊 My Github Stats</h2>
+ <h2 align='center'>📊 My Github Stats</h2>
 
 <div style="display: flex;">
-    <img width="450px" height="200px" alt="" src="" />
-    <img width="300px" height="200px" alt="" src="" />
+    <img width="450px" height="200px" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=rakeshrauniyar12&theme=dark&hide_border=false" />
+    <img width="300px" height="200px" alt="" src="https://github-readme-stats.vercel.app/api?username=rakeshrauniyar12&show_icons=true&theme=dark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshubisht9&theme=dark)](https://github.com/pranshubisht9/github-readme-stats)
+
 </div>
 <br/>
+
 
   <!-- <h2 align='center'>ℹ️ &nbsp;Github Info</h2> -->
 
