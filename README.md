@@ -32,9 +32,14 @@
 <h2 align='center'> :pencil: Technical Skills</h2>
 
 <div align='center' style="display: flex;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://tse3.mm.bing.net/th?id=OIP.QlPemi-BGIRmzOSUF3vLkwHaHa&pid=Api&P=0" width=90px height=58px>
+   <img src="https://tse2.mm.bing.net/th?id=OIP.JETD1JT_ZtxT5kBHYCuf7QEgDY&pid=Api&P=0" width=90px height=58px>
+  <img src="https://tse3.mm.bing.net/th?id=OIP.g-NoHKGXHdzX4QuvESVkfgHaHB&pid=Api&P=0" width=90px height=58px>
+  <img src="https://tse2.mm.bing.net/th?id=OIP._Lm_T3scKhVEVFC54gcRxwHaE8&pid=Api&P=0" width=90px height=58px>
+  <img src="https://tse4.mm.bing.net/th?id=OIP.4f2ZFbp_VXQcFOJZMfVypQAAAA&pid=Api&P=0https://tse4.mm.bing.net/th?id=OIP.4f2ZFbp_VXQcFOJZMfVypQAAAA&pid=Api&P=0" width=90px height=58px>
+  <img src="https://tse3.mm.bing.net/th?id=OIP.QGfW6BSeRs-O6ygR9QitdgHaHa&pid=Api&P=0" width=90px height=58px>
+  <img src="https://tse4.mm.bing.net/th?id=OIP.TnaZy2LN9luR1xwoU_whTQHaHQ&pid=Api&P=0" width=90px height=58px>
+  <img src="https://tse2.mm.bing.net/th?id=OIP.5gg3afPs5cq_njXovzrDGQAAAA&pid=Api&P=0" width=90px height=58px>
 </div>
 
 <br>
