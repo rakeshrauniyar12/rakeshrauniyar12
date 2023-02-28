@@ -51,7 +51,7 @@
 <br/>
 
  <h2 align='center'>📊 My Github Stats</h2>
-<div style="margin-left:20px;margin-top:20px;">
+<div style="margin-left:60px;margin-top:20px;">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=rakeshrauniyar12&theme=dark&hide_border=false" width =220><br>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=rakeshrauniyar12&show_icons=true&theme=dark" width =220><br>
