@@ -53,14 +53,14 @@
  <h2 align='center'>📊 My Github Stats</h2>
 <div style="display:grid;grid-template-columns: repeat(2,1fr);grid-template-rows: auto;margin-left:60px;margin-top:20px;">
   <div>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=rakeshrauniyar12&theme=dark&hide_border=false" width =220>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=rakeshrauniyar12&theme=dark&hide_border=false" width =320>
     </div>
   
   <div>
-<img src = "https://github-readme-stats.vercel.app/api?username=rakeshrauniyar12&show_icons=true&theme=dark" width =220>
+<img src = "https://github-readme-stats.vercel.app/api?username=rakeshrauniyar12&show_icons=true&theme=dark" width =320>
   </div>
   <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshrauniyar12&theme=dark" width=220>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshrauniyar12&theme=dark" width=320>
   </div>
 </div>
 
