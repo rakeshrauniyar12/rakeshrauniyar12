@@ -1,6 +1,7 @@
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://rakeshrauniyar12.github.io/" target="_blank" rel="noopener noreferrer">Abhinandan Rauniyar </a>!
 </h2>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;&center=true&width=500&height=50">
 </p>
